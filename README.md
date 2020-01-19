@@ -1,0 +1,1 @@
+Project to rebuild the google homepage. Learning Javascript with The Odin Project. 
